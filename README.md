@@ -1,3 +1,5 @@
 # js-toolset
 javascript toolset
-JavaScript常用工具集
+
+## List
+- deepClone : deepClone for javascript object and array
